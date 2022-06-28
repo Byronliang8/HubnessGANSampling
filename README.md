@@ -21,11 +21,11 @@ Our research is based on StyleGAN2; you can check the basic work through https:/
 ## Example results
 ![result](/images/all.png) 
 
-### Acknowledgements
+## Acknowledgements
 This research was partially funded by the UK Engineering and Physical Sciences Research Council (EPSRC) through the Doctoral Training Partnerships (DTP).
 
 
-## Citation
+# Citation
 ```
 @article{liang2022exploring,
   title={Exploring and Exploiting Hubness Priors for High-quality GAN Latent Sampling},
