@@ -8,6 +8,7 @@ Link of the paper: https://arxiv.org/abs/2206.06014
 <p align="center">
 <img src="/images/teaser.jpg" width="500">
 </p>
+
 ## Release notes
 Our research is based on StyleGAN2; you can check the basic work through https://nvlabs.github.io/stylegan2/versions.html
 
