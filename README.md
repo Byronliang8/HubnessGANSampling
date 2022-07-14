@@ -30,19 +30,15 @@ This research was partially funded by the UK Engineering and Physical Sciences R
 # Citation
 ```
 
-@InProceedings{pmlr-v162-liang22b,
+@InProceedings{HubnessGAN,
   title = 	 {Exploring and Exploiting Hubness Priors for High-Quality {GAN} Latent Sampling},
   author =       {Liang, Yuanbang and Wu, Jing and Lai, Yu-Kun and Qin, Yipeng},
   booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
   pages = 	 {13271--13284},
   year = 	 {2022},
-  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
   volume = 	 {162},
-  series = 	 {Proceedings of Machine Learning Research},
   month = 	 {17--23 Jul},
   publisher =    {PMLR},
-  pdf = 	 {https://proceedings.mlr.press/v162/liang22b/liang22b.pdf},
-  url = 	 {https://proceedings.mlr.press/v162/liang22b.html}
 }
 
 ```
